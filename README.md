@@ -1,9 +1,7 @@
 ## Hi there 👋, I am Farhadur Rahman
-#### Web Developer ![Web Developer](https://pbs.twimg.com/profile_banners/1825880032990081024/1726417786/600x200)
+#### Web Developer
 
-
-
-
+                                           ![Web Developer](https://pbs.twimg.com/profile_banners/1825880032990081024/1726417786/600x200)
 I'm a passionate **Front-End and Back-End Web Developer** and tech enthusiast from **Bangladesh**. I'm currently diving into full-stack development and exploring various programming languages, including **JavaScript** and **C**. I enjoy solving problems and learning new technologies to build innovative projects.
 
 ### 🔭 Current Focus
