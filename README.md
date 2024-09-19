@@ -23,8 +23,7 @@ I'm a passionate **Front-End and Back-End Web Developer** and tech enthusiast fr
 - Contributing to open-source projects.
 
 ### 📫 Reach Me
-- **Email:** farhadur.mahi@example.com (replace with real email)
-- **LinkedIn:** [Your LinkedIn profile link](https://linkedin.com)
+- **Email:** farhadurrahman.help4@gmail.com
 
 ### ⚡ Fun Fact
 I’ve been into tech since I was young, and I’m always discovering new ways to create something different!
