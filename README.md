@@ -37,7 +37,7 @@ I'm a passionate **Full Stack Web Developer** exploring full-stack development. 
 ---
 
 ### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/-farhadurrahman.help4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farhadurrahman.help4@gmail.com)](mailto:farhadurrahman.help4@gmail.com)
+[![Gmail](https://img.shields.io/badge/-farhadurrahman.help4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farhadurrahman.help4@gmail.com)](mailto:iamfarhadur@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-IamFarhadur-24292F?style=flat-square&logo=github)](https://github.com/IamFarhadur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamfarhadur-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamfarhadur/)
 
