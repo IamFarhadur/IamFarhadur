@@ -1,9 +1,9 @@
 ## Hi there 👋, I am Farhadur Rahman
 #### Web Developer from Bangladesh 🌏   
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=20B983&width=435&lines=Front-End+and+Back-End+Developer;Tech+Enthusiast;Problem+Solver+and+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=20B983&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Problem+Solver)
 
-I'm a passionate **Front-End and Back-End Web Developer** exploring full-stack development. Currently, I'm diving deep into **JavaScript** and **C**, always eager to solve problems and learn new technologies to bring creative projects to life.
+I'm a passionate **Full Stack Web Developer** exploring full-stack development. Currently, I'm diving deep into **JavaScript** and **C++**, always eager to solve problems and learn new technologies to bring creative projects to life.
 
 ---
 
