@@ -11,7 +11,6 @@ I'm a passionate **Full Stack Web Developer** exploring full-stack development. 
 
 #### **💻 Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python)  
-![C](https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c)  
 ![C++](https://img.shields.io/badge/C++-Learning-blue?style=flat-square&logo=cplusplus)  
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)  
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)  
@@ -25,7 +24,6 @@ I'm a passionate **Full Stack Web Developer** exploring full-stack development. 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue?style=flat-square&logo=bootstrap)  
 
 #### **🛠️ Tools**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-User-orange?style=flat-square&logo=ubuntu)  
 ![Git](https://img.shields.io/badge/Git-Intermediate-green?style=flat-square&logo=git)  
 ![VSCode](https://img.shields.io/badge/VSCode-Favorite-blue?style=flat-square&logo=visualstudiocode)  
 
