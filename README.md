@@ -7,19 +7,27 @@ I'm a passionate **Full Stack Web Developer** exploring full-stack development. 
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies  
 
-#### **💻 Expert**
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript)
+#### **💻 Programming Languages**  
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python)  
+![C](https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c)  
+![C++](https://img.shields.io/badge/C++-Learning-blue?style=flat-square&logo=cplusplus)  
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript)  
 
-#### **🔧 Intermediate**
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Intermediate-blue?style=flat-square&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-Intermediate-blue?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black?style=flat-square&logo=nextdotjs)
+#### **🔧 Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black?style=flat-square&logo=nextdotjs)  
+![React](https://img.shields.io/badge/React-Intermediate-blue?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-blue?style=flat-square&logo=tailwindcss)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue?style=flat-square&logo=bootstrap)  
+
+#### **🛠️ Tools**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-User-orange?style=flat-square&logo=ubuntu)  
+![Git](https://img.shields.io/badge/Git-Intermediate-green?style=flat-square&logo=git)  
+![VSCode](https://img.shields.io/badge/VSCode-Favorite-blue?style=flat-square&logo=visualstudiocode)  
 
 ---
 
