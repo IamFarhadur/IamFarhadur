@@ -76,3 +76,4 @@ I’ve been into tech since I was young, always discovering new ways to create s
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IamFarhadur)
 
 ---
+[![roadmap.sh](https://roadmap.sh/card/wide/66c4733a34a9226f3838c8b4?variant=dark&roadmaps=frontend)](https://roadmap.sh)
