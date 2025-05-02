@@ -55,6 +55,9 @@ I'm a passionate **Full Stack Web Developer** exploring full-stack development. 
 I’ve been into tech since I was young, always discovering new ways to create something unique and impactful!
 
 ---
+### 🏆 Progress at roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/66c4733a34a9226f3838c8b4?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+---
 
 ### 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamFarhadur&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -76,4 +79,3 @@ I’ve been into tech since I was young, always discovering new ways to create s
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IamFarhadur)
 
 ---
-[![roadmap.sh](https://roadmap.sh/card/wide/66c4733a34a9226f3838c8b4?variant=dark&roadmaps=frontend)](https://roadmap.sh)
